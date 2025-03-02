@@ -4,7 +4,7 @@ This is an NIC Decorder Application used to get information based on the given N
 
 This is a Widget Hierarchy of NIC Decorder : nic_decoder_app/widget.png
 
-
+![Image Alt Text](https://github.com/tashima39/nic_decoder_app/blob/main/widget.png)
 
 
 
